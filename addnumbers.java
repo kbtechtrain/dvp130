@@ -2,7 +2,7 @@ public class AddNumbers {
 
  public static void main(String[] args) {
 
- int num1 = 5, num2 = 10, sum;
+ Adding one sample line
 
  sum = num1 + num2;
 
